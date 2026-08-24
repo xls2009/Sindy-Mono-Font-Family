@@ -1,0 +1,125 @@
+@font-face {
+    font-family: "Sindy Mono";
+    font-weight: 100;
+    font-style: normal;
+    src: url(fonts/SindyMono-Thin.woff2);
+}
+
+@font-face {
+    font-family: "Sindy Mono";
+    font-weight: 100;
+    font-style: italic;
+    src: url(fonts/SindyMono-ThinItalic.woff2);
+}
+
+@font-face {
+    font-family: "Sindy Mono";
+    font-weight: 200;
+    font-style: normal;
+    src: url(fonts/SindyMono-ExtraLight.woff2);
+}
+
+@font-face {
+    font-family: "Sindy Mono";
+    font-weight: 200;
+    font-style: italic;
+    src: url(fonts/SindyMono-ExtraLightItalic.woff2);
+}
+
+@font-face {
+    font-family: "Sindy Mono";
+    font-weight: 300;
+    font-style: normal;
+    src: url(fonts/SindyMono-Light.woff2);
+}
+
+@font-face {
+    font-family: "Sindy Mono";
+    font-weight: 300;
+    font-style: italic;
+    src: url(fonts/SindyMono-LightItalic.woff2);
+}
+
+@font-face {
+    font-family: "Sindy Mono";
+    font-weight: 400;
+    font-style: normal;
+    src: url(fonts/SindyMono-Regular.woff2);
+}
+
+@font-face {
+    font-family: "Sindy Mono";
+    font-weight: 400;
+    font-style: italic;
+    src: url(fonts/SindyMono-Italic.woff2);
+}
+
+@font-face {
+    font-family: "Sindy Mono";
+    font-weight: 500;
+    font-style: normal;
+    src: url(fonts/SindyMono-Medium.woff2);
+}
+
+@font-face {
+    font-family: "Sindy Mono";
+    font-weight: 500;
+    font-style: italic;
+    src: url(fonts/SindyMono-MediumItalic.woff2);
+}
+
+@font-face {
+    font-family: "Sindy Mono";
+    font-weight: 600;
+    font-style: normal;
+    src: url(fonts/SindyMono-SemiBold.woff2);
+}
+
+@font-face {
+    font-family: "Sindy Mono";
+    font-weight: 600;
+    font-style: italic;
+    src: url(fonts/SindyMono-SemiBoldItalic.woff2);
+}
+
+@font-face {
+    font-family: "Sindy Mono";
+    font-weight: 700;
+    font-style: normal;
+    src: url(fonts/SindyMono-Bold.woff2);
+}
+
+@font-face {
+    font-family: "Sindy Mono";
+    font-weight: 700;
+    font-style: italic;
+    src: url(fonts/SindyMono-BoldItalic.woff2);
+}
+
+@font-face {
+    font-family: "Sindy Mono";
+    font-weight: 800;
+    font-style: normal;
+    src: url(fonts/SindyMono-ExtraBold.woff2);
+}
+
+@font-face {
+    font-family: "Sindy Mono";
+    font-weight: 800;
+    font-style: italic;
+    src: url(fonts/SindyMono-ExtraBold.woff2);
+}
+
+@font-face {
+    font-family: "Sindy Mono";
+    font-weight: 900;
+    font-style: normal;
+    src: url(fonts/SindyMono-Heavy.woff2);
+}
+
+@font-face {
+    font-family: "Sindy Mono";
+    font-weight: 900;
+    font-style: italic;
+    src: url(fonts/SindyMono-HeavyItalic.woff2)
+}

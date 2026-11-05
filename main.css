@@ -1,13 +1,17 @@
 @import url(fonts.css);
 
-html {
-    --bs-font-sans-serif: "Sindy Mono", monospace, "Noto Color Emoji" !important;
-    --bs-font-monospace: "Sindy Mono", monospace !important;
-}
-
 body {
     padding-left: 20%;
     padding-right: 20%;
+    font-family: -apple-system, BlinkMacSystemFont, "Inter", sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: -apple-system, BlinkMacSystemFont, "Inter Display", sans-serif;
+}
+
+pre {
+    font-family: "Sindy Mono", monospace;
 }
 
 .font-sample {

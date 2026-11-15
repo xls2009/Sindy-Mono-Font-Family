@@ -1,17 +1,18 @@
 @import url(fonts.css);
 
 body {
-    font-family: -apple-system, BlinkMacSystemFont, "Inter", sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, ui-sans-serif, "Inter", "Roboto", sans-serif;
     padding-left: 10%;
     padding-right: 10%;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: -apple-system, BlinkMacSystemFont, "Inter Display", sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, ui-sans-serif, "Inter Display", "Roboto", sans-serif;
 }
 
-pre {
-    font-family: "Sindy Mono", monospace;
+code, pre, kbd, samp {
+    font-family: "Sindy Mono", "Roboto Mono", monospace;
+    white-space: pre-line;
 }
 
 .font-sample {
@@ -19,5 +20,16 @@ pre {
     max-width: 50%;
     height: auto;
     margin: 0 auto;
-    border-radius: 10px
+    border-radius: 10px;
+}
+
+div.font-styles p {
+    margin: 0;
+    padding: 0;
+    font-size: 1.5rem;
+}
+
+div.font-preview p {
+    margin: 0;
+    padding: 0;
 }

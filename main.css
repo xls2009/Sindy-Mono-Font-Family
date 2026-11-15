@@ -1,9 +1,9 @@
 @import url(fonts.css);
 
 body {
-    padding-left: 20%;
-    padding-right: 20%;
     font-family: -apple-system, BlinkMacSystemFont, "Inter", sans-serif;
+    padding-left: 10%;
+    padding-right: 10%;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -15,9 +15,9 @@ pre {
 }
 
 .font-sample {
-  display: block;
-  width: 500px;
-  height: auto;
-  margin: 0 auto;
-  border-radius: 5px
+    display: block;
+    max-width: 50%;
+    height: auto;
+    margin: 0 auto;
+    border-radius: 10px
 }

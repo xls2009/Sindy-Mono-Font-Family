@@ -72,7 +72,7 @@
 @font-face {
     font-family: "Inter";
     font-weight: 600;
-    font-style: italic;
+    font-style: normal;
     src: url(fonts/Inter-SemiBold.woff2);
 }
 
@@ -86,7 +86,7 @@
 @font-face {
     font-family: "Inter";
     font-weight: 700;
-    font-style: italic;
+    font-style: normal;
     src: url(fonts/Inter-Bold.woff2);
 }
 
@@ -100,7 +100,7 @@
 @font-face {
     font-family: "Inter";
     font-weight: 800;
-    font-style: italic;
+    font-style: normal;
     src: url(fonts/Inter-ExtraBold.woff2);
 }
 
@@ -114,7 +114,7 @@
 @font-face {
     font-family: "Inter";
     font-weight: 900;
-    font-style: italic;
+    font-style: normal;
     src: url(fonts/Inter-Black.woff2);
 }
 
@@ -198,7 +198,7 @@
 @font-face {
     font-family: "Inter Display";
     font-weight: 600;
-    font-style: italic;
+    font-style: normal;
     src: url(fonts/InterDisplay-SemiBold.woff2);
 }
 
@@ -212,7 +212,7 @@
 @font-face {
     font-family: "Inter Display";
     font-weight: 700;
-    font-style: italic;
+    font-style: normal;
     src: url(fonts/InterDisplay-Bold.woff2);
 }
 
@@ -226,7 +226,7 @@
 @font-face {
     font-family: "Inter Display";
     font-weight: 800;
-    font-style: italic;
+    font-style: normal;
     src: url(fonts/InterDisplay-ExtraBold.woff2);
 }
 
@@ -240,7 +240,7 @@
 @font-face {
     font-family: "Inter Display";
     font-weight: 900;
-    font-style: italic;
+    font-style: normal;
     src: url(fonts/InterDisplay-Black.woff2);
 }
 

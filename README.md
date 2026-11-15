@@ -9,6 +9,12 @@ The Sindy Mono font project was begun in FontStruct as "Indomalay Code" at 23 De
 
 In 24 August 2026, I decided to remove the Sindy Code font from FontStruct due to lack of scale and the OpenType feature of the font itself. But still on the same day, I decided to also remake the Sindy Code font as "Sindy Mono" in GitHub, a monospaced font based from Iosevka with Inter-liked letterforms.
 
+## Characteristics
+Sindy Mono font uses closed contours in both digit "6" and "9", and also uses closed-form digit "4". Just like other monospaced fonts, the digit "1" is has bottom base to fill up the empty gap. Some letters has extra serifs for uppercase "I", uppercase "J", lowercase "i", lowercase "j", and lowercase "l". Since the font does only use necessary serifs to fill empty gaps, most other characters and letters like "f" and "r" does not have serifs anymore to maintain its clean design. Sindy Mono font also features true italics rather than slanted oblique to enhance the horizontal flow for the eyes, winch also makes the italics looks more friendly and warm at same time.
+
+## Styles
+Sindy Mono font contains 18 variants in total, including 9 weights (from **Thin** to **Black**) and *True Italics* at every weight.
+
 ## License
 Sindy Mono fonts are licensed under SIL Open Font License 1.1
 
